@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mysql-connector-j-9.6.0",
+			"path": "../../Downloads/mysql-connector-j-9.6.0"
+		},
+		{
+			"name": "emplyee_connection",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
